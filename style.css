@@ -1,0 +1,79 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-attachment: fixed;
+
+}
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    background-color:#FFF;
+    padding: 10px 40px;
+    BOX-SHADOW: inset 3px -3px 20px 1px rgb(65, 65, 65);
+
+}
+h1{
+    font-size: 40px;
+    padding: 10px 0px; 
+
+}
+.header-para{
+    padding: 10px 0px;
+    line-height: 1.5;
+}
+address{
+    padding: 10px 0px;
+    line-height: 1.5;
+}
+.co{
+    padding: 10px 0px;
+}
+.co-para{
+    padding: 10px 0px;
+    border-bottom: solid 2.2px rgb(87, 87, 87);
+    margin: left 10px;;
+
+}
+table, th, td {
+    border:1px solid black;
+    padding: 1.5px 0px 10px 0px;
+    letter-spacing: 1.5px;
+    text-align: center ;
+  }
+  .academics{
+    padding: 10px 0px;
+  }
+  .ac{
+    padding:0px 0px 20px 0px;
+  }
+  .claf{
+    padding:10px 0px;
+  }
+  .known{
+    padding: 10px 0px 0px 20px ;
+    border-bottom: solid 2.2px rgb(87, 87, 87);
+    
+  }
+  .sk{
+    padding: 10px 0px;
+    border-bottom: solid 2.2px rgb(87, 87, 87);
+  }
+  .sk-head{
+    padding: 10px 0px 15px 0px;
+  }
+  .sk-head,.claf,.ac,.co{
+    background-color: rgb(126, 131, 136);
+    padding: 8px 5px;
+    margin-bottom: 10px;
+    border-bottom: solid 2.2px rgb(87, 87, 87);
+  }
+  th{
+    background-color:silver;
+  }
+  table{
+    border-bottom: solid 2.2px ;
+    padding-bottom: 10px;
+  }
+  .skills{
+    padding: 10px 0px 0px 20px ;
+  }
+  
